@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Currency converter</string>
+    <string name="submit">Submit</string>
+    <string name="my_balances">my balances</string>
+    <string name="currency_exchange">currency exchange</string>
+    <string name="sell">Sell</string>
+    <string name="receive">Receive</string>
+    <string name="currency_converted">Currency converted</string>
+    <string name="currency_converted_with_fee">You have converted %s %s to %s %s. Commission Fee: %s %s.</string>
+    <string name="currency_converted_no_fee">You have converted %s %s to %s %s.</string>
+    <string name="done">Done</string>
+</resources>
